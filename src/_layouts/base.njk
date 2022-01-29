@@ -19,9 +19,11 @@
             <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet" type="text/css"/>
         </noscript>
     </head>
-    <body>
+    <body class="flex flex-col min-h-screen bg-slate-100">
         <a href="#main" class="skip-link">Skip to main content</a>
+        {% include "header.njk" %}
         {{ content | safe }}
+        {% include "footer.njk" %}
     </body>
     <script src="/static/app.min.js" defer></script>
 </html>

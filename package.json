@@ -1,7 +1,7 @@
 {
-	"name": "eleventy-web-starter",
-	"version": "1.8.0",
-	"description": "Eleventy Web Starter is a lightweight Eleventy boilerplate utilising, ESBuild Tailwind and PostCSS",
+	"name": "deaf-pickleball",
+	"version": "1.0.0",
+	"description": "Website files for https://www.deafpickleball.com",
 	"scripts": {
 		"clean": "del dist",
 		"dev:postcss": "postcss src/_assets/stylesheets/*.css -o src/static/styles.min.css --watch --verbose",
@@ -13,8 +13,8 @@
 		"start": "run-p dev:*",
 		"build": "run-s clean build:*"
 	},
-	"author": "Chris Collins",
-	"license": "ISC",
+	"author": "Andy Fosters",
+	"license": "MIT",
 	"devDependencies": {
 		"@11ty/eleventy": "^1.0.0",
 		"autoprefixer": "^10.4.2",

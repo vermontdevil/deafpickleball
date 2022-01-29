@@ -1,11 +1,10 @@
 module.exports = {
-	"title": "Eleventy Web Starter",
-	"description": "Minimal boilerplate for new projects built with Eleventy, Tailwind, PurgeCSS and PostCSS",
-	"url": "https://eleventywebstarter.netlify.app",
-	"author": "Chris Collins",
+	"title": "Deaf Pickleball",
+	"description": "Deaf Pickleball website using Eleventy and Tailwind",
+	"url": "https://www.deafpickleball.com",
+	"author": "Andy Foster",
 	"meta_data": {
-		"twitter": "@chrissy_dev",
-		"opengraph_default": "/static/opengraph-default.jpg"
+		"twitter": "@andyfoster405",
 	},
 	"env": process.env.ELEVENTY_ENV === 'production'
 }

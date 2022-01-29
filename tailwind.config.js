@@ -16,8 +16,13 @@ module.exports = {
 					800: '#003072',
 					900: '#00204C',
 				},
+				'pb-red': '#E73E1F',
+				'pb-yellow': '#F3DD25'
 			}
 		},
+		container: {
+			center: true,
+		  },
 	},
 	plugins: [],
 	content: ['src/**/*.njk', 'src/**/*.js']
