@@ -17,7 +17,8 @@ module.exports = {
 					900: '#00204C',
 				},
 				'pb-red': '#E73E1F',
-				'pb-yellow': '#F3DD25'
+				'pb-yellow': '#F3DD25',
+				'charcoal': '#5E5E5E',
 			}
 		},
 		container: {
