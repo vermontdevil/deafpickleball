@@ -1,0 +1,219 @@
+<h2 class="text-3xl mb-5">Bylaw with ASL Video</h2><a name="top"></a>
+                <h2 class="text-3xl mb-5">Table of Contents</h2>
+                <ul class="list-disc ml-10 mb-5">
+                    <li><a href="#mission">Mission Statement</a></li>
+                    <li><a href="#articleI">Article I: Name</a></li>
+                    <li><a href="#articleII">Article II: Purpose and Objectives</a></li>
+                    <li><a href="#articleIII">Article III: Non-Profit Purpose</a></li>
+                    <li><a href="#articleIV">Article IV: Board of Directors</a></li>
+                    <li><a href="#articleV">Article V: Duties of Officers</a></li>
+                    <li><a href="#articleVI">Article VI: Members</a></li>
+                    <li><a href="#articleVII">Article VII: Dues, Suspension, Expulsion</a></li>
+                    <li><a href="#articleVIII">Article VIII: Meetings of the General Membership</a></li>
+                    <li><a href="#articleIX">Article IX: Committees</a></li>
+                    <li><a href="#articleX">ARTICLE X: Consultants and Independent Contractors</a></li>
+                    <li><a href="#articleXI">Article XI: Financial Administration</a></li>
+                    <li><a href="#articleXII">Article XII: IRC 501 (c)(3) Tax Exemption Provisions</a></li>
+                    <li><a href="#articleXIII">Article XIII: Indemnification</a></li>
+                    <li><a href="#articleXIV">Article XIV: Amendments</a></li>
+                    <li><a href="#articleXV">Article XV: Dissolution</a></li>
+                    <li><a href="#certification">Certification</a></li>
+                </ul>
+
+                <h3 class="text-2xl mb-5">
+                    <a name="mission"></a>Mission Statement
+                    <lite-youtube videoid="hsH7ePfiHxQ" playlabel="Play: Mission Statement"></lite-youtube></h3>
+                <hr class="border-1 mt-3 mb-5 border-stone-900">
+                <h3 class="text-2xl mb-5"><a name="articleI"></a>Article I: Name<br /><span class="text-sm font-bold">§ 1.01 - Name</span>
+                    <lite-youtube videoid="lnK73juK65M" playlabel="Play: Article I: Name"></lite-youtube></h3>
+                <a href="#top">Return to Top</a>
+                <hr class="border-1 mt-3 mb-5 border-stone-900">
+                <h3 class="text-2xl mb-5"><a name="articleII"></a>ARTICLE II: Purpose and Objectives
+                    <lite-youtube videoid="Bz1jqlrlzUE" playlabel="Play: Article II"></lite-youtube>
+                    <span class="text-sm font-bold">§ 2.01 - Purpose.</span>
+                    <lite-youtube videoid="3Ch16HdT4Uw" playlabel="Play: 2.01 Purpose"></lite-youtube>
+                    <br /><span class="text-sm font-bold">§ 2.02 - Objectives.</span> <span class="text-sm">The objectives of the DPUSA are established as follows:</span><br />
+                        <span class="text-sm">✓Objective 1</span><lite-youtube videoid="sb3dT0if4Lo" playlabel="Play: Objective 1"></lite-youtube>
+                        <span class="text-sm">✓Objecitve 2</span><lite-youtube videoid="9TVZHQqEJzY" playlabel="Play: Objective 2"></lite-youtube>
+                        <span class="text-sm">✓Objective 3</span><lite-youtube videoid="B6GaHo-N-jE" playlabel="Play: Objective 3"></lite-youtube>
+                        <span class="text-sm">✓Objective 4</span><lite-youtube videoid="ZtUSKLfk-yU" playlabel="Play: Objective 4"></lite-youtube>
+                        <span class="text-sm">✓Objective 5</span><lite-youtube videoid="yEuJp0BjECY" playlabel="Play: Objective 5"></lite-youtube>
+                </h3>
+                <a href="#top">Return to Top</a>
+                <hr class="border-1 mt-3 mb-5 border-stone-900">
+                <h3 class="text-2xl mb-5"><a name="articleIII"></a>ARTICLE III: Non-Profit Purpose<br />
+                    <lite-youtube videoid="-RpvtZnC6LQ" playlabel="Play: Article III"></lite-youtube>
+                    <span class="text-sm font-bold">§ 3.01 - Nonprofit Sec. 501 (c)(3).</span>
+                    <lite-youtube videoid="9iUJl64Pzbo" playlabel="Play: 3.01 Nonprofit Sec. 501 (c)(3)"></lite-youtube>
+                    <br /><span class="text-sm font-bold">§ 3.02 - Power</span><lite-youtube videoid="9iUJl64Pzbo" playlabel="Play: 3.02 Power"></lite-youtube>
+                </h3>
+                <a href="#top">Return to Top</a>
+                <hr class="border-1 mt-3 mb-5 border-stone-900">
+                <h3 class="text-2xl mb-5"><a name="articleIV"></a>ARTICLE IV: Board of Directors
+                    <lite-youtube videoid="1Vu_PfxHiJo" playlabel="Play: Article IV: Board of Directors"></lite-youtube>
+                    <span class="text-sm font-bold">§ 4.01 - Management.</span>
+                    <lite-youtube videoid="AeB-k62B7OQ" playlabel="Play: 4.01 Management"></lite-youtube>
+                    <br />
+                    <span class="text-sm font-bold">§ 4.02 - Members and Terms.</span>
+                        <lite-youtube videoid="C57RDpw5UXk" playlabel="Play: 4.02 Members and Terms."></lite-youtube>
+                        <br />
+                        <span class="text-sm font-bold">§ 4.02(a) - Staggered terms.</span><lite-youtube videoid="Arz_l76SHIY" playlabel="Play: 4.02(a) - Staggered terms"></lite-youtube>
+                        <span class="text-sm font-bold">§ 4.02(b) - Staggered terms when the USDPA Bylaws are ratified.</span>
+                        <lite-youtube videoid="ON6eyN1T9KA" playlabel="Play: 4.02(b) - Staggered terms when the USDPA Bylaws are ratified"></lite-youtube>
+                    <br /><br />
+                    <span class="text-sm font-bold">§ 4.03 - Powers and Authority.</span><lite-youtube videoid="-RYW5nQ6muQ" playlabel="Play: 4.03 - Powers and Authority"></lite-youtube><br /><br />
+                    <span class="text-sm font-bold">§ 4.04 - At-Large Board’s Duties.</span><lite-youtube videoid="BqUnwyL1csU" playlabel="Play: 4.04 - At-Large Board’s Duties"></lite-youtube><br />
+                        <span class="text-sm font-bold">The At-Large Board Directors (3):</span><br />
+                        <span class="text-sm">✓Duties 1.</span><lite-youtube videoid="ZP3LVQvZE1w" playlabel="Play: Duties 1"></lite-youtube>
+                        <span class="text-sm">✓Duties 2.</span><lite-youtube videoid="sYT4MzKP71Q" playlabel="Play: Duties 2"></lite-youtube>
+                    <br /><br />
+                    <span class="text-sm font-bold">§ 4.05 - Duration of Term.</span><lite-youtube videoid="uHT6PA2D8Ms" playlabel="Play: 4.05 - Duration of Term"></lite-youtube><br /><br />
+                    <span class="text-sm font-bold">§ 4.06 - Call for Meeting.</span><lite-youtube videoid="wQz1f_6MPms" playlabel="Play: 4.06 - Call for Meeting"></lite-youtube><br /><br />
+                    <span class="text-sm font-bold">§ 4.07 - Vacancies.</span><lite-youtube videoid="mDsng2lSO4c" playlabel="Play: 4.07 - Vacancies"></lite-youtube><br /><br />
+                    <span class="text-sm font-bold">§ 4.08 - Proxy Votes.</span><lite-youtube videoid="AN4V4KXe4y0" playlabel="Play: 4.08 - Proxy Votes"></lite-youtube><br /><br />
+                    <span class="text-sm font-bold">§ 4.09 - Meetings.</span><lite-youtube videoid="qF74qjbWAvA" playlabel="Play: 4.09 - Meetings"></lite-youtube><br /><br />
+                    <span class="text-sm font-bold">§ 4.10 - Quorum.</span><lite-youtube videoid="pjzzWnBK4wQ" playlabel="Play: 4.10 - Quorum"></lite-youtube><br /><br />
+                    <span class="text-sm font-bold">§ 4.11 - Rules and Regulations.</span><lite-youtube videoid="RCGdpwFVOVU" playlabel="Play: 4.11 - Rules and Regulations"></lite-youtube><br /><br />
+                    <span class="text-sm font-bold">§ 4.12 - Conflicts of Interest.</span><lite-youtube videoid="XtjPLgkhy98" playlabel="Play: 4.12 - Conflicts of Interest"></lite-youtube>
+                         <span class="text-sm">✓Point 1</span><lite-youtube videoid="t-GEAujRL0U" playlabel="Play: Point 1"></lite-youtube>
+                        <span class="text-sm">✓Point 2</span><lite-youtube videoid="0Pco8INSWLQ" playlabel="Play: Point 2"></lite-youtube>
+                         <span class="text-sm">✓Point 3</span><lite-youtube videoid="GNE50HMXH3Q" playlabel="Play: Point 3"></lite-youtube>
+                        <span class="text-sm">✓Point 4</span><lite-youtube videoid="FbMtk3SWVYw" playlabel="Play: Point 4"></lite-youtube>
+                         <span class="text-sm">✓Point 5</span><lite-youtube videoid="EAUVmqLU-6s" playlabel="Play: Point 5"></lite-youtube><br /><br />
+                    <span class="text-sm font-bold">§ 4.13 - Resignation.</span><lite-youtube videoid="GG8TJOKAc_s" playlabel="Play: 4.13 - Resignation"></lite-youtube><br /><br />
+                    <span class="text-sm font-bold">§ 4.14 - Removal of the Officer or At-Large Board Director.</span><lite-youtube videoid="pqjlAGyPp0I" playlabel="Play: 4.14 - Removal of the Officer or At-Large Board Director"></lite-youtube>
+                </h3>
+                <a href="#top">Return to Top</a>
+                <hr class="border-1 mt-3 mb-5 border-stone-900">
+                <h3 class="text-2xl mb-5"><a name="articleV"></a>ARTICLE V: Duties of Officers<br />
+                    <span class="text-sm font-bold">§ 5.01 - Officers’ Duties and Responsibilities. <lite-youtube videoid="p0bUpFUF2Ks" playlabel="Play: 5.01 - Officers' Duties and Responsibilities"></lite-youtube></span><br />
+                    <span class="text-sm font-bold">A. The President</span><br />
+                        <span class="text-sm">✓ Duties 1 <lite-youtube videoid="ZLbHAB3Mif8" playlabel="Play: Duties 1"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 2 <lite-youtube videoid="rGr2M5RRSqs" playlabel="Play: Duties 2"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 3 <lite-youtube videoid="nU-jR2wveZM" playlabel="Play: Duties 3"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 4 <lite-youtube videoid="lpePziljFfc" playlabel="Play: Duties 4"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 5 <lite-youtube videoid="Q0aTxf0nEGQ" playlabel="Play: Duties 5"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 6 <lite-youtube videoid="T9y_WJTxP28" playlabel="Play: Duties 6"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 7 <lite-youtube videoid="Wv1UCG1ZlYQ" playlabel="Play: Duties 7"></lite-youtube></span><br /><br />
+                    <span class="text-sm font-bold">B. The Vice-President</span><br />
+                        <span class="text-sm">✓ Duties 1 <lite-youtube videoid="9bMzOhFbiWA" playlabel="Play: Duties 1"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 2 <lite-youtube videoid="GddeO9CRrAc" playlabel="Play: Duties 2"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 3 <lite-youtube videoid="DrnEcdwzBck" playlabel="Play: Duties 3"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 4 <lite-youtube videoid="luFHl6hyTPE" playlabel="Play: Duties 4"></lite-youtube></span><br /><br />
+                    <span class="text-sm font-bold">C. The Secretary <lite-youtube videoid="bEvJPbbDFvk" playlabel="Play: The Secretary"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 1 <lite-youtube videoid="qrOJwClLbF4" playlabel="Play: Duties 1"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 2 <lite-youtube videoid="vq2iEtXBL_A" playlabel="Play: Duties 2"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 3 <lite-youtube videoid="8eCjV7OOCXw" playlabel="Play: Duties 3"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 4 <lite-youtube videoid="JMxI7GvYvcE" playlabel="Play: Duties 4"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 5 <lite-youtube videoid="MFdYmhNxPQg" playlabel="Play: Duties 5"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 6 <lite-youtube videoid="iIFtbVFwDtM" playlabel="Play: Duties 6"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 7 <lite-youtube videoid="b8olR1mkg8s" playlabel="Play: Duties 7"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 8 <lite-youtube videoid="80LyVj7vyWg" playlabel="Play: Duties 8"></lite-youtube></span><br /><br />
+                    <span class="text-sm font-bold">D. The Treasurer <lite-youtube videoid="hF5rXJzV6Ew" playlabel="Play: The Treasurer"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 1 <lite-youtube videoid="Q6SXnMT8O58" playlabel="Play: Duties 1"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 2 <lite-youtube videoid="pKruDfkVbyE" playlabel="Play: Duties 2"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 3 <lite-youtube videoid="dhzdSZKKss4" playlabel="Play: Duties 3"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 4 <lite-youtube videoid="C2zct9yyzYs" playlabel="Play: Duties 4"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 5 <lite-youtube videoid="nqyMElXeBtM" playlabel="Play: Duties 5"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 6 <lite-youtube videoid="JcpP3Ql1O6g" playlabel="Play: Duties 6"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 7 <lite-youtube videoid="xB0vSTIJ7V4" playlabel="Play: Duties 7"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 8 <lite-youtube videoid="QfrLuRvKsN4" playlabel="Play: Duties 8"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 9 <lite-youtube videoid="AIXCKzlPduQ" playlabel="Play: Duties 9"></lite-youtube></span><br />
+                        <span class="text-sm">✓ Duties 10 <lite-youtube videoid="NN3vzaC1Qug" playlabel="Play: Duties 10"></lite-youtube></span><br /><br />
+                    <span class="text-sm font-bold">§ 5.02 - Vacancies. <lite-youtube videoid="k92BDlifFrs" playlabel="Play: 5.02 - Vacancies"></lite-youtube></span><br />
+                        <span class="text-sm font-bold">§ 5.02 (a) - <lite-youtube videoid="RUvAoRDNMms" playlabel="Play: 5.02 (a)"></lite-youtube></span><br />
+                        <span class="text-sm font-bold">§ 5.02 (b) - <lite-youtube videoid="iqPbTZHVmMY" playlabel="Play: 5.02 (b)"></lite-youtube></span><br />
+            </h3>
+            <a href="#top">Return to Top</a>
+            <hr class="border-1 mt-3 mb-5 border-stone-900">
+                <h3 class="text-2xl mb-5"><a name="articleVI"></a>ARTICLE VI: Members<br />
+                    <lite-youtube videoid="tujxMCMmbrI" playlabel="Play: Article VI: Members"></lite-youtube>
+                    <span class="text-sm font-bold">§ 6.01 - Deaf Members. <lite-youtube videoid="Gecl4VVcYf8" playlabel="Play: Deaf Members"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 6.02 - Non-Voting Members. << Video not available >><br />
+                    <span class="text-sm font-bold">§ 6.03 - Discrimination Prohibited. << Video not available >><br />
+            </h3>
+            <a href="#top">Return to Top</a>
+            <hr class="border-1 mt-3 mb-5 border-stone-900">
+                <h3 class="text-2xl mb-5"><a name="articleVII"></a>ARTICLE VII: Dues, Suspension, Expulsion<br />
+                <lite-youtube videoid="pGV9ogvFqPA" playlabel="Play: Article VII: Dues, Suspension, Expulsion"></lite-youtube>
+                    <span class="text-sm font-bold">§ 7.01 - Deaf Membership Dues. <lite-youtube videoid="o9CMDq9ngRE" playlabel="Play: Deaf Membership Dues"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 7.02 - Deaf Members. <lite-youtube videoid="2mn2SgC1Th8" playlabel="Play: Deaf Members"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 7.03 - Exhaustion of Administrative Remedies. <lite-youtube videoid="wt5FzbH-rOA" playlabel="Play: Exhaustion of Administrative Remedies"></lite-youtube><br />
+            </h3>
+            <a href="#top">Return to Top</a>
+            <hr class="border-1 mt-3 mb-5 border-stone-900">
+                <h3 class="text-2xl mb-5"><a name="articleVIII"></a>ARTICLE VIII: Meetings of the General Membership<br />
+                <lite-youtube videoid="mdyhlGmz9Bc" playlabel="Play: ARTICLE VIII: Meetings of the General Membership"></lite-youtube>
+                    <span class="text-sm font-bold">§ 8.01 - Languages. <lite-youtube videoid="C-r1AxoAIYA" playlabel="Play: Languages"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 8.02 - Notice of Meetings. <lite-youtube videoid="pSzAtNd7aNc" playlabel="Play: Notice of Meetings"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 8.03 - The Annual Meeting. <lite-youtube videoid="YgdHUwyai6M" playlabel="Play: The Annual Meeting"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 8.04 - The Agenda. <lite-youtube videoid="Ie7DrsvFzPg" playlabel="Play: The Agenda"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 8.05 - Special Membership Meetings. <lite-youtube videoid="M_WAqe-2ejQ" playlabel="Play: Special Membership Meetings"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 8.06 - Meetings of the Board of Directors. <lite-youtube videoid="txw0JZT-clQ" playlabel="Play: Meetings of the Board of Directors"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 8.07 - Quorum. <lite-youtube videoid="DoejATFDLFQ" playlabel="Play: Quorum"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 8.08 - Minutes. <lite-youtube videoid="5A2rXUyaQvc" playlabel="Play: Minutes"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 8.09 - Rules of Order. <lite-youtube videoid="eBZo0QxEr3k" playlabel="Play: Rules of Order"></lite-youtube><br />
+            </h3>
+            <a href="#top">Return to Top</a>
+            <hr class="border-1 mt-3 mb-5 border-stone-900">
+                <h3 class="text-2xl mb-5"><a name="articleIX"></a>ARTICLE IX: Committees<br />
+                <lite-youtube videoid="RCrEzH-x5Is" playlabel="Play: "></lite-youtube>
+                    <span class="text-sm font-bold">§ 9.01 - Committee Formation. <lite-youtube videoid="zu6HJVBs7y0" playlabel="Play: Committee Formation"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 9.02 - Executive Committee.<br />
+                    <span class="text-sm font-bold">a - . <lite-youtube videoid="EYqPg3NIc2w" playlabel="Play: Executive Commitee section a"></lite-youtube><br />
+                    <span class="text-sm font-bold">b and c - . <lite-youtube videoid="vx67TUaZJ_o" playlabel="Play: Executive Commitee section b and c"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 9.03 - Finance Committee. <lite-youtube videoid="2Ow33SyLOkw" playlabel="Play: Finance Committee"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 9.04 - Nominating Committee. <lite-youtube videoid="YQyPZipZlS0" playlabel="Play: Nominating Committee"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 9.05 - Tournament Committee. <lite-youtube videoid="l_BdOdbnfWo" playlabel="Play: Tournament Committee"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 9.05(a) - Guidelines. <lite-youtube videoid="b7T1IZ3OJmU" playlabel="Play: Guidelines"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 9.05(b) - Agreement. <lite-youtube videoid="KqaMEkii_24" playlabel="Play: Agreement"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 9.06 - Quorum. <lite-youtube videoid="o-K0vA7NyQA" playlabel="Play: Quorum"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 9.07 - Minutes of Meetings. <lite-youtube videoid="o0RiZ1fVxn0" playlabel="Play: Minutes of Meetings"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 9.08 - No Proxies. <lite-youtube videoid="pYwP8zHvQiQ" playlabel="Play: No Proxies"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 9.09 - Video Conference Meetings. <lite-youtube videoid="SAIUFVzArcs" playlabel="Play: Video Conference Meetings"></lite-youtube><br />
+            </h3>
+            <a href="#top">Return to Top</a>
+            <hr class="border-1 mt-3 mb-5 border-stone-900">
+                <h3 class="text-2xl mb-5"><a name="articleX"></a>ARTICLE X: Consultants and Independent Contractors<br />
+                <lite-youtube videoid="hEgqejongXY" playlabel="Play: ARTICLE X: Consultants and Independent Contractors"></lite-youtube>
+                    <span class="text-sm font-bold">§ 10.01 - Consultants and Independent Contractors. <lite-youtube videoid="50CulTxZVtc" playlabel="Play: Consultants and Independent Contractors"></lite-youtube><br />
+            </h3>
+            <a href="#top">Return to Top</a>
+            <hr class="border-1 mt-3 mb-5 border-stone-900">
+                <h3 class="text-2xl mb-5"><a name="articleXI"></a>ARTICLE XI: Financial Administration<br />
+                <lite-youtube videoid="STIg5FZkojg" playlabel="Play: ARTICLE XI: Financial Administration"></lite-youtube>
+                    <span class="text-sm font-bold">§ 11.01 - Fiscal Year. <lite-youtube videoid="SZB0YufIRNs" playlabel="Play: Fiscal Year"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 11.02 - Non-budgeted Expenses. <lite-youtube videoid="-bZ_apoxo34" playlabel="Play: Non-budgeted Expenses"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 11.03 - Checks, et cetera. <lite-youtube videoid="XUMA1FkFBew" playlabel="Play: Checks, et cetera"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 11.04 - Deposits and Accounts. <lite-youtube videoid="rM82KEhpufI" playlabel="Play: Deposits and Accounts"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 11.05 - Investments. <lite-youtube videoid="U7pf9hthV1o" playlabel="Play: Investments"></lite-youtube><br />
+            </h3>
+            <hr class="border-1 mt-3 mb-5 border-stone-900">
+                <h3 class="text-2xl mb-5"><a name="articleXII"></a>ARTICLE XII: IRC 501 (c)(3) Tax Exemption Provisions<br />
+                <lite-youtube videoid="jQ1sS1a-F8E" playlabel="Play: ARTICLE XII: IRC 501 (c)(3) Tax Exemption Provisions"></lite-youtube>
+                    <span class="text-sm font-bold">§ 12.01 - Limitation on Activities. <lite-youtube videoid="X4CLC-gCCS0" playlabel="Play: Limitation on Activities"></lite-youtube><br />
+                    <span class="text-sm font-bold">§ 12.02 - Prohibition Against Private Inurement. <lite-youtube videoid="m7v1Nc0pSIc" playlabel="Play: Prohibition Against Private Inurement"></lite-youtube><br />
+            </h3>
+            <a href="#top">Return to Top</a>
+            <hr class="border-1 mt-3 mb-5 border-stone-900">
+                <h3 class="text-2xl mb-5"><a name="articleXIII"></a>ARTICLE XIII: Indemnification<br />
+                    <span class="text-sm font-bold">§ 13.01 - Indemnification. <lite-youtube videoid="9AoQuP9Tu44" playlabel="Play: Indemnification"></lite-youtube><br />
+            </h3>
+            <a href="#top">Return to Top</a>
+            <hr class="border-1 mt-3 mb-5 border-stone-900">
+                <h3 class="text-2xl mb-5"><a name="articleXIV"></a>ARTICLE XIV: Amendments<br />
+                <lite-youtube videoid="Vckt6bZJBIM" playlabel="Play: ARTICLE XIV: Amendments"></lite-youtube>
+                    <span class="text-sm font-bold">§ 14.01 - Amendments. <lite-youtube videoid="qcoyClSwmVU" playlabel="Play: Amendments"></lite-youtube><br />
+            </h3>
+            <a href="#top">Return to Top</a>
+            <hr class="border-1 mt-3 mb-5 border-stone-900">
+                <h3 class="text-2xl mb-5"><a name="articleXV"></a>ARTICLE XV: Dissolution<br />
+                <lite-youtube videoid="8HaLxNjqMbM" playlabel="Play: ARTICLE XV: Dissolution"></lite-youtube>
+                    <span class="text-sm font-bold">§ 15.01 - Dissolution of Assets. <lite-youtube videoid="8kP17kAOnYk" playlabel="Play: Dissolution of Assets"></lite-youtube><br />
+            </h3>
+            <a href="#top">Return to Top</a>
+            <hr class="border-1 mt-3 mb-5 border-stone-900">
+                <h3 class="text-2xl mb-5"><a name="certification"></a>Certification<br />
+                <lite-youtube videoid="66V3PPzZK0o" playlabel="Play: Certification"></lite-youtube>
+            </h3>
+            <a href="#top">Return to Top</a>
